@@ -10,7 +10,7 @@ int main ()
 		if (nilai >= 8 && nilai <= 10)
 		cout <<"A";
 		{
-			if (nilai >= 6.6 && nilai <= 7)
+			if (nilai >= 6.6 && nilai <= 7.9)
 			cout <<"B";
 		}
 		{
@@ -18,11 +18,11 @@ int main ()
 			cout <<"C";
 		}
 		{
-			if (nilai >= 3 && nilai <= 4)
+			if (nilai >= 3 && nilai <= 4.9)
 			cout <<"D";
 		}
 		{
-			if (nilai >= 0 && nilai <= 2)
+			if (nilai >= 0 && nilai <= 2.9)
 			cout <<"E";
 		}
 	}
